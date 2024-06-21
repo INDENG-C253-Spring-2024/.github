@@ -1,5 +1,5 @@
 # The _Calyber_ Game
-This is the classroom page of the Calyber game for [IEOR 253/CIVENG 258 Supply Chain and Logistics Management in Spring 2024](https://classes.berkeley.edu/content/2024-spring-indeng-c253-001-lec-001). Calyber is a shared rides pricing and matching game developed at [IEOR @ UC Berkeley](https://ieor.berkeley.edu/). 
+This is the classroom page of the Calyber game for [IEOR 253/CIVENG 258 Supply Chain and Logistics Management in Spring 2024](https://classes.berkeley.edu/content/2024-spring-indeng-c253-001-lec-001). Calyber is a shared rides pricing and matching game developed at [IEOR@UC Berkeley](https://ieor.berkeley.edu/). 
 
 If you are a student, using your Berkeley credentials to access the template repository and your team's private repository. 
 
